@@ -5,6 +5,6 @@ Este projeto foi criado em sala de aula para práticar HTML e CSS, gostei bastan
 ### Instruções sobre como ver o projeto
 
 ```shell
-https://github.com/rafanerdy/projetoMeet.git
-
-
+git https://github.com/rafanerdy/projetoMeet.git
+```
+Este é um site
